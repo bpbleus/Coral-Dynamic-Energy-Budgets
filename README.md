@@ -1,5 +1,5 @@
 # Coral-Dynamic-Energy-Budgets
-Symbiotic Dynamic Energy Budget model code for scleractinian corals associated with doi:10.1016/j.jtbi.2009.03.004 and 10.1016/j.ecolmodel.2011.01.004
+Symbiotic Dynamic Energy Budget model code (Matlab) for scleractinian corals associated with doi:10.1016/j.jtbi.2009.03.004 and 10.1016/j.ecolmodel.2011.01.004
 This is code to solve steady state values of the coral model in Muller et al. (2009) and used in Edmunds et al. (2011). I commented the code reasonably well and there shouldn’t be major bugs or errors (but the code comes ‘as is’ without warranty).
  
 The run file runsteadystatecoral2019.m calls the function steadystatecoral.m  Photoinhibion and photodamage modules of Eynaud et al (2011). The plotting section is messy, but you can change this easily to your preference.
